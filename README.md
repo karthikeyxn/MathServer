@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:04.04.2024
+
 
 
 ## AIM:
